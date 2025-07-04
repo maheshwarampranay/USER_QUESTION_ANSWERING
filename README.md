@@ -2,7 +2,7 @@
 # USER QUESTION ANSWERING MODEL - FINE TUNING BERT
 This repository contains a Jupyter notebook for fine-tuning the **BERT** (Bidirectional Encoder Representations from Transformers) model on a Question Answering (QA) task using the Hugging Face Transformers library and PyTorch. It also contains a notebook where the task is performed without fine-tuning the transformer.
 
-## 📌 Project Overview - fine tuned BERT version
+## 📌 Project Overview - fine tuned BERT version 
 
 The goal of this project is to:
 
